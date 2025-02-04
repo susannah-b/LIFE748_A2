@@ -1,0 +1,1 @@
+print("This script is only a sample script for the git workshop. Acting as a placeholder until the LIFE748 project is started.")
