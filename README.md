@@ -1,3 +1,7 @@
-# Blank repo
+# University of Liverpool LIFE748 module Assessment 2
 
-This repository is created as part of the git workshop in Life748. However I can potentially use this as part of the LIFE748 research project \(genomics/ML\). Or, just delete this after if it's never used.
+This repository contains all the code required for the project, including:
+
+  - **assembly.sh:** Script required for assembly of E coli read data
+  - **annotation.sh:** Script required for gene calling and annotation of assemblies
+  - tbc
